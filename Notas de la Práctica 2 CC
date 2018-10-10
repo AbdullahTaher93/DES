@@ -1,0 +1,41 @@
+Vamos empezar con el hito 1
+
+Tenemos que entender como se plantea un proyecto para se lanzar en la nube.
+
+Aqui (y en la vida real) los proyectos se organizan en hitos (milestones)
+
+Hito es algo entregable
+
+El mínimo, tantos hitos como los da asignatura
+
+Organizar en milestones, organizados en issues, que son historias de usuario - Que quiero hacer
+Siempre trabajas con issues, siempre buscar terminar un issue
+Todos los commits tiene que referir un issue, e los issues se cierran con un commit
+
+Aqui tendremos que hacer algo que mostre al profesor que entendimos la asignatura
+Proyecto libre y individual
+Desarrollar un proyecto pequeno que desplegaremos en la nube
+Empezaremos con una maquina virtual
+En este hito lo describiremos, nuestro proyecto
+Tenemos que percebir que programas desplegados en la nube no se despliegan como programa "normales"
+"Yo voy a hacer este proyecto"
+Servicios estan en servidores
+Lo que despliegas en la web son servicos
+Tenemos que hablar de servicos web
+Servicos web tienen sempre almacén de datos
+No digas que el servicos interaje con el PHP e está echo, no digas
+Podemos usar la linguaje, o dos linguajes, que queremos
+Que framework iremos usar? Tendremos que decidir
+El usual es microframeworks, tendo en cuenta la linguaje a usar. Cada linguaje tiene las suyas
+No escojas solo porque si, miralo e decide
+Entiende que los servicios web usan varios servicios, como servicios de datos (Bases de datos, bases de datos NoSQL)
+No tienes que mencionar: que plataforma (app, etc) que el cliente usa
+
+!!! Linguaje, microframework e servicios - Lo que tenemos que informar al profesor
+1ª parte corijida automaticamente
+
+Fecha de entrega - 22OUT
+
+No cierres pull requests
+No crearás ramas, el profesor no lo aconseja
+No deves escoger Java ni PHP para el proyecto.
