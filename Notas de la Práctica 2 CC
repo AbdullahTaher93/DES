@@ -39,3 +39,5 @@ Fecha de entrega - 22OUT
 No cierres pull requests
 No crearás ramas, el profesor no lo aconseja
 No deves escoger Java ni PHP para el proyecto.
+
+Haberán ejercicios en los textos teoricos. El 4 será corregido por el profesor. Pero su calidad no cuenta para evaluación: solo cuenta si los hicimos o no. Podemos colocar los ejercicios donde queiramos, pero el profesor recomienda crear un tercer repositorio solo para esos ejercicios teóricos. Así, tendremos 3 repositorios para esta asignatura: el fork del CC-18-19, el de nuestro proyecto, e el de nuestros ejercicios teoricos. Cuando los terminemos, deberemos asinalar los objetivos que pensemos que ese ejercicios cumpre, e añadir en ellos el enlace para el objetivo.
